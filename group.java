@@ -1,5 +1,6 @@
 public class group{
   public static void main (String args[]) {
-    system.out.printLine("edit the code")
+    System.out.println("edit the code")
+    System.out.println("Hello Rhys");
   }
 }
