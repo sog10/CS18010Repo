@@ -1,3 +1,5 @@
 public class group{
-system.out.printLine("edit the code")
+  public static void main (String args[]) {
+    system.out.printLine("edit the code")
+  }
 }
